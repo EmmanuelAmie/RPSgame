@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\77948a57f9552e3feda9b19fbf0e94aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\6920f1d38cb82946b8ab61275206d259\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\def3f3025d3e797194cd0f451d1bcc0e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\25e6eccc1845ccd6f89033b415f4a829\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\3c9981609b16d56148f6c843435ff358\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\fdb053f68b874ad85f0bb338de0cf694\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\9ea1a8edb927093786e617ee917b6ac2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\0457b68588ef83b4748cdfc1553d98e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\3b1ba3aec16a72488d7f4a2bb899bdfa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\02eb353c29771d07083fc15b77888520\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\7582f4254c213bcb284278cd6e34654e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\411b1a1d61502f7f13cfe82a48d9dd2c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\e21efb08dd9c4b5baba89be5baf6ea50\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\c9df4e88a2395face2c63124b66d9c06\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\a39839e4490e4f7ccc77d7c4a800d036\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\39fa6f6d886aad34f26bc0ec73e7010c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\3b732648e103fd65be0d19d7faffe6a3\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\ea9a8babebed9160185dd2800a787cd1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\c6e06b4b0c2b000c5206d4f4582ddf48\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\67b464db86c792380f02e0db0837477a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\b393d2904b16f7ddbd246b4dea08b9fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\3dfdff503aca966430de8ee1f89dd450\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\fb6aeb9602f9dd8951848b8e171dbb42\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\8872e5ea7fff24414df50ddc37a7393f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\f64745a3c4fba54516efa5ad4333f5f6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\8375fcd3c8b4160a57007744fdb6549c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\3b1d3881ede83b53cb52799301947be4\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\6920f1d38cb82946b8ab61275206d259\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\6920f1d38cb82946b8ab61275206d259\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\39fa6f6d886aad34f26bc0ec73e7010c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\39fa6f6d886aad34f26bc0ec73e7010c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\3b732648e103fd65be0d19d7faffe6a3\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\3b732648e103fd65be0d19d7faffe6a3\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\39fa6f6d886aad34f26bc0ec73e7010c\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.rpsgame.MainActivity
+ADDED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\77948a57f9552e3feda9b19fbf0e94aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\77948a57f9552e3feda9b19fbf0e94aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\6920f1d38cb82946b8ab61275206d259\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\6920f1d38cb82946b8ab61275206d259\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\def3f3025d3e797194cd0f451d1bcc0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\def3f3025d3e797194cd0f451d1bcc0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\25e6eccc1845ccd6f89033b415f4a829\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\25e6eccc1845ccd6f89033b415f4a829\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\3c9981609b16d56148f6c843435ff358\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\3c9981609b16d56148f6c843435ff358\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\fdb053f68b874ad85f0bb338de0cf694\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\fdb053f68b874ad85f0bb338de0cf694\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\9ea1a8edb927093786e617ee917b6ac2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\9ea1a8edb927093786e617ee917b6ac2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\0457b68588ef83b4748cdfc1553d98e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\0457b68588ef83b4748cdfc1553d98e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\3b1ba3aec16a72488d7f4a2bb899bdfa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\3b1ba3aec16a72488d7f4a2bb899bdfa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\02eb353c29771d07083fc15b77888520\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\02eb353c29771d07083fc15b77888520\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\7582f4254c213bcb284278cd6e34654e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\7582f4254c213bcb284278cd6e34654e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\411b1a1d61502f7f13cfe82a48d9dd2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\411b1a1d61502f7f13cfe82a48d9dd2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\e21efb08dd9c4b5baba89be5baf6ea50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\e21efb08dd9c4b5baba89be5baf6ea50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\c9df4e88a2395face2c63124b66d9c06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\c9df4e88a2395face2c63124b66d9c06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\a39839e4490e4f7ccc77d7c4a800d036\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\a39839e4490e4f7ccc77d7c4a800d036\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\39fa6f6d886aad34f26bc0ec73e7010c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\39fa6f6d886aad34f26bc0ec73e7010c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\3b732648e103fd65be0d19d7faffe6a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\3b732648e103fd65be0d19d7faffe6a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\ea9a8babebed9160185dd2800a787cd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\ea9a8babebed9160185dd2800a787cd1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\c6e06b4b0c2b000c5206d4f4582ddf48\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\c6e06b4b0c2b000c5206d4f4582ddf48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\67b464db86c792380f02e0db0837477a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\67b464db86c792380f02e0db0837477a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\b393d2904b16f7ddbd246b4dea08b9fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\b393d2904b16f7ddbd246b4dea08b9fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\3dfdff503aca966430de8ee1f89dd450\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\3dfdff503aca966430de8ee1f89dd450\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\fb6aeb9602f9dd8951848b8e171dbb42\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\fb6aeb9602f9dd8951848b8e171dbb42\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\8872e5ea7fff24414df50ddc37a7393f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\8872e5ea7fff24414df50ddc37a7393f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\f64745a3c4fba54516efa5ad4333f5f6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\f64745a3c4fba54516efa5ad4333f5f6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\8375fcd3c8b4160a57007744fdb6549c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\8375fcd3c8b4160a57007744fdb6549c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\3b1d3881ede83b53cb52799301947be4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\EmmanuelAmiewalan\.gradle\caches\transforms-2\files-2.1\3b1d3881ede83b53cb52799301947be4\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\EmmanuelAmiewalan\AndroidStudioProjects\RPSgame\app\src\main\AndroidManifest.xml

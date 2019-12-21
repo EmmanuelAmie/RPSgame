@@ -1,0 +1,4 @@
+#Wed May 22 14:39:06 CDT 2019
+base.0=C\:\\Users\\EmmanuelAmiewalan\\AndroidStudioProjects\\RPSgame\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
